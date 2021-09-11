@@ -1,0 +1,38 @@
+.truth{
+    border: 10px solid green;
+    border-radius: 20px;
+    margin: 10px;
+    width: 500px;
+    display:inline-block
+}
+h1{
+    color: rgb(0, 17, 255);
+    background-color: rgb(236, 179, 22);
+    height: 70px;
+    width: 500px;
+    font-size: 50px;
+    font-family: fantasy;
+}
+p{
+    color: rgb(220, 20, 20);
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+.pic{
+    height: auto 10px;
+    width: 500px;
+}
+#song{
+    font-size: 30px;
+    color: indigo;
+}
+
+.vab{
+    color: rgb(174, 0, 255);
+}
+
+.blog{
+        background-color: skyblue;
+}
